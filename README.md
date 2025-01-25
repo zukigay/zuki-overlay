@@ -1,4 +1,4 @@
-# zuki's overlay
+# zuki's gentoo overlay
 
 ## core packages...
 
